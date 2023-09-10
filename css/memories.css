@@ -11,6 +11,9 @@
 	height: auto;
 	max-width: 100%; 
 }*/
+.song {
+	display: none;
+}
 .bgcolor {
 	background: #ee9ca7;
     background: -webkit-linear-gradient(top left, #ee9ca7 0%, #ee9ca7 100%);
